@@ -13,7 +13,7 @@ My journey from physics to programming has strengthened my analytical thinking, 
 ## 🚀 About Me
 
 - 🎓 B.Sc. Pure & Applied Physics (2022)
-- 💻 Backend Developer in Training
+- 💻 Full-stack Developer in Training
 - 🌱 Currently learning advanced Golang and software engineering
 - 🔍 Passionate about problem solving and building impactful solutions
 - 📚 Continuous learner exploring modern technologies
@@ -24,13 +24,18 @@ My journey from physics to programming has strengthened my analytical thinking, 
 
 ### Languages
 - Go (Golang)
+- python 
 
 ### Backend Development
 - REST APIs
 - HTTP Servers
 - JSON Processing
 - API Integration
-
+### Frontend Development
+-vite
+-html
+-typescript
+-CSS 
 ### Tools
 - Git
 - GitHub
@@ -46,6 +51,7 @@ My journey from physics to programming has strengthened my analytical thinking, 
 ---
 
 ## 📌 Featured Projects
+- L-aura (Beauty Salon)
 
 ### 🎨 ASCII Art Generator
 A command-line application that converts text into ASCII art using custom banner files.
