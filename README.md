@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a **B.Sc. Pure and Applied Physics graduate** from **Federal University Wukari, Nigeria**, with a growing passion for **software development**, **backend engineering**, and **technology-driven problem solving**.
+I'm a **B.Sc. Pure and Applied Physics graduate** from **Federal University Wukari, Nigeria**, with a growing passion for **software development**, **Frontend/backend engineering**, and **technology-driven problem solving**.
 
 My journey from physics to programming has strengthened my analytical thinking, research skills, and ability to tackle complex challenges with logical and innovative solutions.
 
