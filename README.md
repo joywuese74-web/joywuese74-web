@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wuese Joy
 
-### Physics Graduate | Golang Backend Developer | Lifelong Learner
+### Physics Graduate | Full-Stack Developer | Lifelong Learner
 
 Welcome to my GitHub profile!
 
@@ -24,7 +24,8 @@ My journey from physics to programming has strengthened my analytical thinking, 
 
 ### Languages
 - Go (Golang)
-- python 
+- python
+- JavaScript
 
 ### Backend Development
 - REST APIs
