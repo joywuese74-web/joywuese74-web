@@ -13,7 +13,7 @@ My journey from physics to programming has strengthened my analytical thinking, 
 ## 🚀 About Me
 
 - 🎓 B.Sc. Pure & Applied Physics (2022)
-- 💻 Full-stack Developer in Training
+- 💻 Full-stack  && AI Engineer in Training
 - 🌱 Currently learning advanced Golang and software engineering
 - 🔍 Passionate about problem solving and building impactful solutions
 - 📚 Continuous learner exploring modern technologies
